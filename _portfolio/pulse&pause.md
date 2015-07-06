@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocipedia
+title: pulse&pause
 thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+short-description: A pomodoro style timer that also functions as a time-management tool that tracks your hours spent. Built using Firebase API and AngularJS.
 
 ---
 
