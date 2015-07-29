@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/blocflix.png"
+feature-img: "img/2bade03.jpg"
 ---
 
 

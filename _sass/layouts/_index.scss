@@ -71,7 +71,7 @@
 
 // Work listing
 .work {
-  @extend %padding-regular;
+  // @extend %padding-regular;
   background-size: $feature-image-size;
   text-align: center;
   display: block;
@@ -97,6 +97,7 @@
         margin:0 auto 1%;
       }
     }
+
     .project-description {
       width:100%;
       float:left;

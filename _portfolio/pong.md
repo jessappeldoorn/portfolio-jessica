@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pong
-thumbnail-path: "img/blocitoff.png"
-short-description: A classic pong game, with a twist.  Built using HTML5 canvas.
+<!-- title: Pong -->
+thumbnail-path: "img/pulseMockup.jpg"
+<!-- short-description: A classic pong game, with a twist.  Built using HTML5 canvas. -->
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/pulseMockup.jpg)
 
 ## Explanation
 

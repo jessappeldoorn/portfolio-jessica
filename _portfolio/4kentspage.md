@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A band page for Kent
-thumbnail-path: "img/blocitoff.png"
-short-description: A self-promotion band website.
+<!-- title: KENT -->
+thumbnail-path: "img/kentMockup.jpg"
+<!-- short-description: A promotional website for a solo artist/musician. -->
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/kentMockup.jpg)
 
 ## Explanation
 
