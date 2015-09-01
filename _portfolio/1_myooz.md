@@ -1,13 +1,13 @@
 ---
 layout: post
-<!-- title: Pong -->
-thumbnail-path: "img/pulseMockup.jpg"
-<!-- short-description: A classic pong game, with a twist.  Built using HTML5 canvas. -->
+<!-- title: pulse&pause -->
+thumbnail-path: "img/myoozMockup.jpg"
+<!-- short-description: A pomodoro style timer that also functions as a time-management tool that tracks your hours spent. Built using Firebase API and AngularJS. -->
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/pulseMockup.jpg)
+![]({{ site.baseurl }}/img/myoozMockup.jpg)
 
 ## Explanation
 

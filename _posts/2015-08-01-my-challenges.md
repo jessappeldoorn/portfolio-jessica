@@ -1,9 +1,16 @@
 ---
 layout: post
-title: Markdown and HTML
+title: Challenges & Opportunities in Job Prep
 ---
 
-Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+When I finished my Bloc Apprenticeship, it became time to get 'real' and get into the job searching mode. While I built a number of web apps, I didn't feel any of them were finished and I wanted to add some things, like authentication - which would be a good idea for almost any app.
+
+* TalentBuddy
+* CodeWars
+* Treehouse
+* Girl Develop It
+
+<!-- Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
 Tables have also been extended from Markdown:
 
@@ -14,7 +21,7 @@ Content Cell  | Content Cell
 
 Here's an example of an image, which is included using Markdown:
 
-![Geometric pattern with fading gradient]({{ site.baseurl }}/img/jess_hello.jpg)
+![Geometric pattern with fading gradient]({{ site.baseurl }}/img/blocflix.png)
 
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
 
@@ -49,3 +56,4 @@ Type Theme uses KaTeX to display maths. Equations such as $$S_n = a \times \frac
 Alternatively, they can be shown on a new line:
 
 $$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
+ -->
