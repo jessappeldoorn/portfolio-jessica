@@ -1,6 +1,6 @@
 ---
 layout: post
-<!-- title: PULSE & PAUSE -->
+title: pulse & pause
 thumbnail-path: "img/pulsePauseMockup.jpg"
 <!-- short-description: A pomodoro-style timer that tracks your time working (pulsing) & breaking (pausing). --> 
 
@@ -8,6 +8,11 @@ thumbnail-path: "img/pulsePauseMockup.jpg"
 
 {:.center}
 ![]({{ site.baseurl }}/img/pulsePauseMockup.jpg)
+
+---
+[WEBSITE](http://pulse-and-pause.herokuapp.com/ "Website")
+---
+[SOURCE CODE](https://github.com/jessappeldoorn/pulse-and-pause "Code")
 
 ## Explanation
 
@@ -32,7 +37,5 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
 > Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
 
 
-[WEBSITE](http://pulse-and-pause.herokuapp.com/ "Website")
-
-[SOURCE CODE](https://github.com/jessappeldoorn/pulse-and-pause "Website")  
+  
 

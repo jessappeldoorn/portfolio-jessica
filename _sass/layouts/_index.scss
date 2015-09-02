@@ -49,6 +49,11 @@
   .post-header {
     text-align: center;
   }
+
+  .post-header {
+    line-height: 5;
+  }
+
   .post-teaser {
     width: 46%;
     @media (max-width:768px) {
@@ -85,6 +90,8 @@
     width:100%;
     // margin:2em auto;
     .project-thumb {
+      height: 100%;
+      position: relative;
       width: 100%;
       float: left;
       margin-bottom: 0;
@@ -93,77 +100,70 @@
         width:99%;
       }
       img {
-        display:block;
+        display: block;
         text-align: center;
-        margin:0 auto 1%;
+        // margin:0 auto 1%;
       }
 
-      
-span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 150px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 150px;
-}
-
-span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-}
-
-//       a {
-//           display: inline-block;
-//       }
-
-//       a:hover {
-//           background-color: #000;
-//           opacity: .25;
-//       }
-
-//       img:hover,
-//       .a:hover img {
-//           visibility: hidden;
-// }
-      // a img:hover {
-      //     background-image: url("http://ivomynttinen.com/work/karbon/content/karbon-settings.jpg");
-      //     width: 100%;
-      //     height:100%;
-      // }
-    }
-
-
-
-    .project-description {
-      width:100%;
-      float:left;
-      text-align: center;
-      margin-bottom: 0;
-      display: inline-block;
-      @media (max-width: 768px) {
-        width:99%;
+      a:hover span.text-content {
+        opacity: 1;
       }
-      a {
-        strong {
-          font-size:1.4em;
-          margin-bottom:0.5em;
-          font-weight:600;
+        span.text-content {
+          background: rgba(0,0,0,0.5);
+          color: white;
+          cursor: pointer;
+          // display: table;
+          position: absolute;
+          left: 0;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          // width: 100%;
+          opacity: 0;
+          -webkit-transition: opacity 800ms;
+          -moz-transition: opacity 800ms;
+          -o-transition: opacity 800ms;
+          transition: opacity 800ms;
         }
-      }
-      p a:hover {
-        @extend %link-hover;
-      }
+          span.text-content span {
+            font-family: $font-family-headings;
+            font-size: 60px;
+            // height: 100%;
+            // width: 300px;
+            // display: block;
+            // line-height: 100%;
+            // position: absolute;
+            // top: 40%;
+            // padding: 20%;
+            // vertical-align: middle;
+            text-align: center;
+          }
     }
-    .excerpt {
-      margin-top: 1em;
-    }
-  }
-  
+    // .project-description {
+    //   width:100%;
+    //   float:left;
+    //   text-align: center;
+    //   margin-bottom: 0;
+    //   display: inline-block;
+    //   @media (max-width: 768px) {
+    //     width:99%;
+    //   }
+    //   a {
+    //     strong {
+    //       font-size:1.4em;
+    //       margin-bottom:0.5em;
+    //       font-weight:600;
+    //             background-color: #383838;
+    //     }
+    //   }
+    //   p a:hover {
+    //     @extend %link-hover;
+    //   }
+    // }
+    // .excerpt {
+    //   margin-top: 1em;
+    // }
+  }  
 }
 
 // Pagination
