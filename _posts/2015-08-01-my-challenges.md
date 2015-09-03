@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Challenges & Opportunities in Job Prep
+title: Challenges + Opportunities in Job Prep
 ---
 
 When I finished my Bloc Apprenticeship, it became time to get 'real' and get into the job searching mode. While I built a number of web apps, I didn't feel any of them were finished and I wanted to add some things, like authentication - which would be a good idea for almost any app.
