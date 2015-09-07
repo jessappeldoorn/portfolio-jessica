@@ -33,8 +33,6 @@ As a user, I want to mark tasks as complete | Add a button or link inline with t
 
 ## Results
 
-The Timer is the core feature of pulse & pause. Users can immediately start using the app from the landing page. It displays a timer for working/breaking and a start/reset button. When each interval is completed, a bell will sound and the timer will automatically continue it's cycle through 4 work/break sessions, unless the user chooses to reset.   
-
 For added features, a user can login via Facebook, Github, or Google+. Once logged in, a user is able to enter a task label when starting the timer. A dashboard link is displayed in the navigation bar, which stores the users data. Tasks will be shown in the dashboard with relevant information, such as a date completed and number of working intervals. 
 
 The site also contains an information section describing how to best use the app, for ultimate productivity.

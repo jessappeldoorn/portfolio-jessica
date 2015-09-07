@@ -2,7 +2,7 @@
 layout: post
 title: cetacea
 thumbnail-path: "img/cetacea_mockup.jpg"
-short-description: Keeping up with the whales.
+short-description: Coming Soon.
 
 ---
 
