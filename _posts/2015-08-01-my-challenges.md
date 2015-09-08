@@ -3,19 +3,19 @@ layout: post
 title: Challenges + Opportunities in Job Prep
 ---
 
-When I finished my Bloc Apprenticeship, it became time to get 'real' and get into the job searching mode. While I built a number of web apps, I didn't feel any of them were finished and I wanted to add some things, like authentication - which would be a good idea for almost any app.
+<!-- When I finished my Bloc Apprenticeship, it became time to get 'real' and get into the job searching mode. While I built a number of web apps, I didn't feel any of them were finished and I wanted to add some things, like authentication - which would be a good idea for almost any app.
 
 * TalentBuddy
 * CodeWars
 * Treehouse
-* Girl Develop It
+* Girl Develop It -->
 
 <!-- Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
 Tables have also been extended from Markdown:
 
 First Header  | Second Header
-------------- | -------------
+ | 
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
