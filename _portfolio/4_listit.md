@@ -33,12 +33,10 @@ As a user, I want to mark tasks as complete | Add a button or link inline with t
 
 ## Results
 
-For added features, a user can login via Facebook, Github, or Google+. Once logged in, a user is able to enter a task label when starting the timer. A dashboard link is displayed in the navigation bar, which stores the users data. Tasks will be shown in the dashboard with relevant information, such as a date completed and number of working intervals. 
-
-The site also contains an information section describing how to best use the app, for ultimate productivity.
+--
 
 ---
 [WEBSITE](http://just-list-it.herokuapp.com/ "Website")
 ---
-[SOURCE CODE](https://github.com/jessappeldoorn/pulse-and-pause "Code")
+[SOURCE CODE](https://github.com/jessappeldoorn/List.it "Code")
 

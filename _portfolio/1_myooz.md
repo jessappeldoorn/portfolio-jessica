@@ -12,7 +12,7 @@ short-description: A music-streaming app.
 ---
 [WEBSITE](http://myooz.herokuapp.com/ "Website")
 ---
-[SOURCE CODE](https://github.com/jessappeldoorn/pulse-and-pause "Code")
+[SOURCE CODE](https://github.com/jessappeldoorn/myooz "Code")
 
 ## Explanation
 
@@ -26,11 +26,12 @@ As a user, I want Myooz to provide an optimized experience on mobile devices  | 
 As a developer, I want to improve the Bloc Jams landing page with animations  | --
    
 ## Results
+--
 
 ---
 [WEBSITE](http://myooz.herokuapp.com/ "Website")
 ---
-[SOURCE CODE](https://github.com/jessappeldoorn/pulse-and-pause "Code")
+[SOURCE CODE](https://github.com/jessappeldoorn/myooz "Code")
 
  
 
