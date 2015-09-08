@@ -6,4 +6,4 @@ feature-img: "img/blocflix.png"
 hide: true
 ---
 
-Looking forward to chatting wiht you soon.
+I'm so happy you checked out my work. I'm looking forward to chatting with you soon.  
