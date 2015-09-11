@@ -31,9 +31,13 @@ As a user, I want expired and completed tasks presented in a separate view | Cre
 As a user, I want to submit new tasks with a description, priority level and three states: expired, completed or active  | Create an input with an ngModel tied to a $scope model at the top of the list. Allow the user to save the task by clicking a button or link. Use a dropdown to hold all of the priority levels and choose one before submitting the task. Use a $scope method to call the $add() method on the array to sync the task with Firebase and refresh.
 As a user, I want to mark tasks as complete | Add a button or link inline with the task item. Include the trigger within the ngRepeat block so it will be scoped to the clicked item.
 
-## Results
+<!-- ## Results
 
---
+The Timer is the core feature of pulse & pause. Users can immediately start using the app from the landing page. It displays a timer for working/breaking and a start/reset button. When each interval is completed, a bell will sound and the timer will automatically continue it's cycle through 4 work/break sessions, unless the user chooses to reset.   
+
+For added features, a user can login via Facebook, Github, or Google+. Once logged in, a user is able to enter a task label when starting the timer. A dashboard link is displayed in the navigation bar, which stores the users data. Tasks will be shown in the dashboard with relevant information, such as a date completed and number of working intervals. (User authentication is currently a work in progress and will be updated in a future deployment).
+
+The site also contains an information section describing how to best use the app, for ultimate productivity. -->
 
 ---
 [WEBSITE](http://just-list-it.herokuapp.com/ "Website")

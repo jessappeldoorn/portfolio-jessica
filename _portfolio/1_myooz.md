@@ -22,11 +22,11 @@ Myooz is a clone of the single-page music-streaming app rdio. The app was built 
  
 User Story      | Implementation
 ------------- | -------------
-As a user, I want Myooz to provide an optimized experience on mobile devices  | --
-As a developer, I want to improve the Bloc Jams landing page with animations  | --
+As a user, I want Myooz to provide an optimized experience on mobile devices  | 
+As a developer, I want to improve the Myooz landing page with animations  | Use keyframe animation to 'slide in' the hero content and selling point of myooz; animate the album cover, on hover, to flip like a card
    
-## Results
---
+<!-- ## Results
+ -->
 
 ---
 [WEBSITE](http://myooz.herokuapp.com/ "Website")
