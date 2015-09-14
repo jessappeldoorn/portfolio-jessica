@@ -23,7 +23,7 @@ My 'roadmap' of learning, started with a long series of lessons that built up my
 * Javascript: The Good Parts
 * And many more...
 
-I soon started building my first web app in AngularJS. Everything was moving quickly, and then it was onto more and more projects. Throughout the program, I ended up building a handful of web applications and webites; and this is the basis of Bloc - to get you building things fast! The program is geared toward putting things into practice, with the end goal being tangible results. By doing this, you start to see patterns and remember how things are working; it's up to you to learn the ins and outs. But often, this is a process, in any field. Just keep building stuff! I've come so far in such a little time, that I'd say it was worth it! 
+I soon started building my first web app in AngularJS. Everything was moving quickly, and then it was onto more and more projects. Throughout the program, I ended up building a handful of web applications and webites; and this is the basis of Bloc - to get you building things fast! The program is geared toward putting things into practice, with the end goal being tangible results. By doing this, you start to see patterns and remember how things are working; it's up to you to learn the ins and outs. But often, this is a process, in any field. Just keep building stuff! I've come so far in such a short time, that I'd say it was worth it! 
 
 
 
