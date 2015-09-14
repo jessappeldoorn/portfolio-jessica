@@ -27,9 +27,9 @@ As a user, I want to listen to songs | --
 As a user, I want to view and update a song-list  | --
 As a user, I want to view photos | --
 
-## Results
+<!-- ## Results
 
---
+ -->
 
 ---
 [WEBSITE](http://kentappeldoorn.com/ "Website")
