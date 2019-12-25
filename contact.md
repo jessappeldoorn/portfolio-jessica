@@ -1,9 +1,8 @@
----
+<!--
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /about/
 feature-img: "img/color.png"
----
 
 I'd love to hear from you.
 
@@ -14,4 +13,4 @@ I'd love to hear from you.
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
-</form>
+</form> -->
